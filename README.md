@@ -8,8 +8,7 @@ compromised by a threat actor. We have to focus on configuring
 the host-based firewall rules on the internal windows server. The 
 present network configuration on the windows server allows all 
 host to communicate with each other and specially to the internal 
-windows server, which will eventually make the entire IT 
-infrastructure of the company vulnerable to a ransomware attack. 
+windows server, which will eventually make the entire IT infrastructure of the company vulnerable to a ransomware attack. 
 To solve this problem, I have developed an access control policy 
 that put restrictions on the unnecessary communication between 
 hosts while still allowing essential services, which includes 
